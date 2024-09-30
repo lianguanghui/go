@@ -43,7 +43,7 @@ func main() {
 	fmt.Printf("%s的年龄是%d\n", name, age)
 	fmt.Println(a, b, c)
 	// 简短变量声明（只能在函数内部使用）
-	lgh := "连光辉" //  与  var lgh ="连光辉"  相同
+	lgh := "连光辉213" //  与  var lgh ="连光辉"  相同
 	fmt.Println(lgh)
 
 	//调用foo函数
