@@ -36,7 +36,7 @@ func main() {
 		b string
 		c bool
 	)
-	name = "jack" //声明变量后赋值
+	name = "jack112" //声明变量后赋值
 	a = 10
 	b = "变量"
 	c = true
