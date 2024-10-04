@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/src.iml" filepath="$PROJECT_DIR$/.idea/src.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/go.iml" filepath="$PROJECT_DIR$/.idea/go.iml" />
+>>>>>>> origin/master
     </modules>
   </component>
 </project>
