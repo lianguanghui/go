@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="481ed729-79ae-454d-9d78-fe5ae61ae287" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.lian/studygolang/day01/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/code.lian/studygolang/day01/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.lian/studygolang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.lian/studygolang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.lian/studygolang/.idea/studygolang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.lian/studygolang/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,7 @@
   "keyToString": {
     "Go Build.go build hello.executor": "Run",
     "Go Build.go build hello/strOther.executor": "Run",
+    "Go Build.go build hello/strTransType (1).executor": "Run",
     "Go Build.go build hello/strTransType.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -41,7 +40,7 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "Rebasing home",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/Users/lian/go/src",
@@ -51,7 +50,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build hello/strTransType">
+  <component name="RunManager" selected="Go Build.go build hello">
     <configuration name="go build hello" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$/code.lian/studygolang/day01" />
