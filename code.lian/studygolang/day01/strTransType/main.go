@@ -86,10 +86,10 @@ func main() {
 
 	//转换为int
 	numRet, _ = strconv.ParseInt(num5, 10, 64) //10是10进制，64是int64
-	fmt.Printf("numRet的类型是%T,numRet= %v\n", numRet, numRet)
+	fmt.Printf("numRet的类型是:%T,numRet= %v\n", numRet, numRet)
 
 	//转换为float
 	numRetF, _ = strconv.ParseFloat(num6, 64)
-	fmt.Printf("numRet的类型是%T,numRet= %v\n", numRetF, numRetF)
+	fmt.Printf("numRet的类型是:%T,numRet= %v\n", numRetF, numRetF)
 
 }
