@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build code.lian/studygolang/day02/keywordInput.executor": "Run",
     "Go Build.go build code.lian/studygolang/day02/pointer.executor": "Run",
     "Go Build.go build code.lian/studygolang/day02/yunsuan.executor": "Run",
     "Go Build.go build hello.executor": "Run",
@@ -65,7 +66,16 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build code.lian/studygolang/day02/yunsuan">
+  <component name="RunManager" selected="Go Build.go build code.lian/studygolang/day02/keywordInput">
+    <configuration name="go build code.lian/studygolang/day02/keywordInput" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="code.lian/studygolang/day02/keywordInput" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/code.lian/studygolang/day02/keywordInput/main.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build code.lian/studygolang/day02/yunsuan" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$" />
@@ -93,15 +103,6 @@
       <filePath value="$PROJECT_DIR$/code.lian/studygolang/day01/strOther/main.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="src" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="code.lian/studygolang/day02/pointer" />
-      <directory value="$PROJECT_DIR$/code.lian/studygolang/day02/pointer" />
-      <filePath value="$PROJECT_DIR$/code.lian/studygolang/day02/pointer/main.go|$PROJECT_DIR$/code.lian/studygolang/day02/yunsuan/main.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build main.go1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$" />
@@ -112,6 +113,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Go Build.go build code.lian/studygolang/day02/keywordInput" />
       <item itemvalue="Go Build.go build code.lian/studygolang/day02/yunsuan" />
       <item itemvalue="Go Build.go build main.go1" />
       <item itemvalue="Go Build.go build hello" />
@@ -119,6 +121,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build code.lian/studygolang/day02/keywordInput" />
         <item itemvalue="Go Build.go build code.lian/studygolang/day02/yunsuan" />
         <item itemvalue="Go Build.go build main.go1" />
         <item itemvalue="Go Build.go build hello/strTransType" />
