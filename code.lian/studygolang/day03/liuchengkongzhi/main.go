@@ -196,7 +196,7 @@ func main() {
 	case 'a' <= str && str <= 'e':
 		fmt.Printf("%c", str-32)
 	default:
-		fmt.Println("不合法啊112")
+		fmt.Println("不合法啊11")
 	}
 
 }
